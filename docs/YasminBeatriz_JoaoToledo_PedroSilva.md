@@ -434,6 +434,7 @@ Verificar se o aluno está com mensalidade em dia.
 -   Nenhuma
 
 ## UC11 --- Validar Entrada na Academia
+<img width="786" height="435" alt="image" src="https://github.com/user-attachments/assets/c7b0e052-ba5d-493d-a74e-c374aafdccc8" />
 
 ### Ator Principal
 
@@ -479,6 +480,7 @@ Permitir acesso à academia pela catraca.
 -   Nenhuma
 
 ## UC12 --- Visualizar Horários de Aulas
+<img width="231" height="308" alt="image" src="https://github.com/user-attachments/assets/8b404218-3211-453a-aa09-44c031402210" />
 
 ### Ator Principal
 
@@ -519,6 +521,7 @@ Permitir que o aluno visualize aulas disponíveis.
 -   Nenhuma
 
 ## UC13 --- Reservar Aula
+<img width="413" height="480" alt="image" src="https://github.com/user-attachments/assets/638d5edf-b03b-4c39-be61-400731091af4" />
 
 ### Ator Principal
 
@@ -560,6 +563,7 @@ Reservar vaga em uma aula.
 -   Nenhuma
 
 ## UC14 --- Cancelar Reserva de Aula
+<img width="327" height="362" alt="image" src="https://github.com/user-attachments/assets/9330cc2f-eaed-489e-ba63-7ce3e8621e1d" />
 
 ### Ator Principal
 
@@ -601,6 +605,7 @@ Cancelar reserva realizada.
 -   Nenhuma
 
 ## UC15 --- Registrar Presença
+<img width="326" height="362" alt="image" src="https://github.com/user-attachments/assets/559bdb84-e6e1-4772-bb6d-29c27f68276a" />
 
 ### Ator Principal
 
@@ -642,6 +647,7 @@ Registrar presença dos alunos nas aulas.
 -   Nenhuma
 
 ## UC16 --- Registrar Avaliação Física
+<img width="230" height="362" alt="image" src="https://github.com/user-attachments/assets/62214d4d-6c22-4f56-bef9-70e6e5bd82db" />
 
 ### Ator Principal
 
@@ -683,6 +689,7 @@ Registrar dados da avaliação física.
 -   Nenhuma
 
 ## UC17 --- Anexar Arquivo de Avaliação
+<img width="210" height="362" alt="image" src="https://github.com/user-attachments/assets/14dc364f-90d9-4f7f-b3a7-89da4ff13f63" />
 
 ### Ator Principal
 
@@ -724,6 +731,7 @@ Adicionar arquivos à avaliação física.
 -   Nenhuma
 
 ## UC18 --- Emitir Relatório de Inadimplência
+<img width="260" height="254" alt="image" src="https://github.com/user-attachments/assets/c12e1d35-ccca-485b-9fb7-0dd538d3b67c" />
 
 ### Ator Principal
 
@@ -765,6 +773,7 @@ Gerar relatório de alunos inadimplentes.
 -   Nenhuma
 
 ## UC19 --- Emitir Relatório de Ocupação de Aulas
+<img width="284" height="308" alt="image" src="https://github.com/user-attachments/assets/52ef9a6d-6a51-447c-893a-f2733c141d8f" />
 
 ### Ator Principal
 
@@ -806,6 +815,7 @@ Gerar relatório de ocupação das aulas.
 -   Nenhuma
 
 ## UC20 --- Enviar Notificações ao Aluno
+<img width="263" height="362" alt="image" src="https://github.com/user-attachments/assets/cc8ee1b2-9a23-417d-a65e-d965857338e0" />
 
 ### Ator Principal
 
